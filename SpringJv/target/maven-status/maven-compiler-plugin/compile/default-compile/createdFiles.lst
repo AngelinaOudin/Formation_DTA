@@ -1,0 +1,6 @@
+fr\form\dao\JeuDao.class
+fr\form\SpringJv\Application.class
+fr\form\model\JeuVideo.class
+fr\form\controller\JeuController.class
+fr\form\service\jeuService.class
+fr\form\SpringJv\Connexion.class
